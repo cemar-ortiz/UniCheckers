@@ -6,5 +6,5 @@ Project to learn and practice tech and collaboration skills to build a digital b
 
 Done in collaboration by:
 
-* Diego Arvizu - darvz.gtz@gmail.com
-* Cesar Mart - cemar.ortiz@gmail.com
+* Diego Arvizu - @diegoarvz4
+* Cesar Mart - @cemar-ortiz
